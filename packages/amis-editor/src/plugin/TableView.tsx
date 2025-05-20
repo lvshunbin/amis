@@ -100,7 +100,7 @@ export class TableViewPlugin extends BasePlugin {
   pluginIcon = 'table-view-plugin';
   description = '表格类型的展现';
   searchKeywords = '表格展现';
-  docLink = '/amis/zh-CN/components/table-view';
+  docLink = '/zh-CN/components/table-view';
   tags = ['功能'];
   scaffold = {
     type: 'table-view',

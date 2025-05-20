@@ -27,7 +27,7 @@ export class CustomPlugin extends BasePlugin {
   disabledRendererPlugin = true; // 待完善，暂时隐藏
 
   description = '通过自定义代码来实现容器组件';
-  docLink = '/amis/zh-CN/components/custom';
+  docLink = '/zh-CN/components/custom';
   tags = ['功能', '容器'];
   icon = 'fa fa-gears';
   scaffold = {

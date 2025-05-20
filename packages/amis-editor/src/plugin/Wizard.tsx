@@ -34,7 +34,7 @@ export class WizardPlugin extends BasePlugin {
   isBaseComponent = true;
   description =
     '表单向导，可以将复杂的多个表单项拆分成多个步骤，一步一步指引用户完成填写。';
-  docLink = '/amis/zh-CN/components/wizard';
+  docLink = '/zh-CN/components/wizard';
   tags = ['功能'];
   icon = 'fa fa-list-ol';
   pluginIcon = 'wizard-plugin';

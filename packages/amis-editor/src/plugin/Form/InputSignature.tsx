@@ -17,7 +17,7 @@ export class SignaturePlugin extends BasePlugin {
   icon = 'fa fa-star-o';
   pluginIcon = 'input-signature-plugin';
   description = '手写签名面板';
-  docLink = '/amis/zh-CN/components/form/input-signature';
+  docLink = '/zh-CN/components/form/input-signature';
   tags = ['表单项'];
   scaffold = {
     type: 'input-signature',

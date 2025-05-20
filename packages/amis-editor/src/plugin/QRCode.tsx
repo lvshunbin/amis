@@ -15,7 +15,7 @@ export class QRCodePlugin extends BasePlugin {
   name = '二维码';
   isBaseComponent = true;
   description = '可以用来生成二维码';
-  docLink = '/amis/zh-CN/components/qrcode';
+  docLink = '/zh-CN/components/qrcode';
   tags = ['功能'];
   icon = 'fa fa-qrcode';
   pluginIcon = 'qrcode-plugin';

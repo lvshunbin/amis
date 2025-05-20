@@ -43,7 +43,7 @@ export class DatePlugin extends BasePlugin {
   disabledRendererPlugin = true; // 可用 DatetimePlugin 实现
   description =
     '主要用来关联字段名做日期展示，支持各种格式如：X（时间戳），YYYY-MM-DD HH:mm:ss。';
-  docLink = '/amis/zh-CN/components/date';
+  docLink = '/zh-CN/components/date';
   tags = ['展示'];
   icon = 'fa fa-calendar';
   pluginIcon = 'date-plugin';

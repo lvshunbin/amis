@@ -30,7 +30,7 @@ export class TransferPlugin extends BasePlugin {
   icon = 'fa fa-th-list';
   pluginIcon = 'transfer-plugin';
   description = '穿梭器组件';
-  docLink = '/amis/zh-CN/components/form/transfer';
+  docLink = '/zh-CN/components/form/transfer';
   tags = ['表单项'];
   scaffold = {
     label: '分组',

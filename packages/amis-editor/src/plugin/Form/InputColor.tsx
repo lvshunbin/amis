@@ -69,7 +69,7 @@ export class ColorControlPlugin extends BasePlugin {
   description =
     '支持<code>hex、hexa、hls、rgb、rgba</code>格式，默认为<code>hex</code>格式';
   searchKeywords = '颜色选择器';
-  docLink = '/amis/zh-CN/components/form/input-color';
+  docLink = '/zh-CN/components/form/input-color';
   tags = ['表单项'];
   scaffold = {
     type: 'input-color',

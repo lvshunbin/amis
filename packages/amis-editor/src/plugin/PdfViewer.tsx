@@ -13,7 +13,7 @@ export class PdfViewerPlugin extends BasePlugin {
   name = 'PDF预览';
   isBaseComponent = true;
   description = 'PDF 文件预览';
-  docLink = '/amis/zh-CN/components/pdf-viewer';
+  docLink = '/zh-CN/components/pdf-viewer';
   tags = ['展示'];
   icon = 'fa fa-file-pdf';
   pluginIcon = 'pdfViewer-plugin';

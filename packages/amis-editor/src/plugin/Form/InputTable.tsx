@@ -49,7 +49,7 @@ export class TableControlPlugin extends BasePlugin {
   pluginIcon = 'table-plugin';
   description =
     '可以用来展现数据的,可以用来展示数组类型的数据，比如 multiple  的子 form';
-  docLink = '/amis/zh-CN/components/form/input-table';
+  docLink = '/zh-CN/components/form/input-table';
   tags = ['表单项'];
   scaffold = {
     type: 'input-table',

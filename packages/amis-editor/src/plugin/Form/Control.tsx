@@ -18,7 +18,7 @@ export class ControlPlugin extends BasePlugin {
   icon = 'fa fa-object-group';
   pluginIcon = 'form-group-plugin';
   description = '表单项容器';
-  docLink = '/amis/zh-CN/components/form/group';
+  docLink = '/zh-CN/components/form/group';
   tags = ['容器'];
   /**
    * 组件选择面板中隐藏，和Container合并

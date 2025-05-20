@@ -22,7 +22,7 @@ export class CarouselPlugin extends BasePlugin {
   isBaseComponent = true;
   description =
     '用来渲染轮播图，可以配置每一页的内容（不只是图片），可以配置过渡动画。';
-  docLink = '/amis/zh-CN/components/carousel';
+  docLink = '/zh-CN/components/carousel';
   tags = ['展示'];
   icon = 'fa fa-images';
   pluginIcon = 'carousel-plugin';

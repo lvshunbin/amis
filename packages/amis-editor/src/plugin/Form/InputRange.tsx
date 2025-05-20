@@ -32,7 +32,7 @@ export class RangeControlPlugin extends BasePlugin {
   icon = 'fa fa-sliders';
   pluginIcon = 'input-range-plugin';
   description = '选择某个值或者某个范围';
-  docLink = '/amis/zh-CN/components/form/input-range';
+  docLink = '/zh-CN/components/form/input-range';
   tags = ['表单项'];
   scaffold = {
     type: 'input-range',

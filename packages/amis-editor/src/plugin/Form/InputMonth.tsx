@@ -14,7 +14,7 @@ export class MonthControlPlugin extends DateControlPlugin {
   pluginIcon = 'inputMonth-plugin';
   icon = 'fa fa-calendar';
   description = '月份选择';
-  docLink = '/amis/zh-CN/components/form/input-month';
+  docLink = '/zh-CN/components/form/input-month';
   tags = ['表单项'];
   // @ts-ignore
   scaffold = {

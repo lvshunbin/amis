@@ -13,7 +13,7 @@ export class TimeControlPlugin extends DateControlPlugin {
   icon = 'fa fa-clock-o';
   pluginIcon = 'input-time-plugin';
   description = '时分秒输入';
-  docLink = '/amis/zh-CN/components/form/input-time';
+  docLink = '/zh-CN/components/form/input-time';
   tags = ['表单项'];
   scaffold = {
     type: 'input-time',

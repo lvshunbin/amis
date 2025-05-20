@@ -31,7 +31,7 @@ export class NestedSelectControlPlugin extends BasePlugin {
   icon = 'fa fa-indent';
   pluginIcon = 'nested-select-plugin';
   description = '适用于选项中含有子项，可通过 source 拉取选项，支持多选';
-  docLink = '/amis/zh-CN/components/form/nestedselect';
+  docLink = '/zh-CN/components/form/nestedselect';
   tags = ['表单项'];
   scaffold = {
     type: 'nested-select',

@@ -14,7 +14,7 @@ export class TransferPickerPlugin extends TransferPlugin {
   icon = 'fa fa-th-list';
   pluginIcon = 'transfer-plugin';
   description = '穿梭选择器组件';
-  docLink = '/amis/zh-CN/components/form/transfer-picker';
+  docLink = '/zh-CN/components/form/transfer-picker';
   tags = ['表单项'];
   scaffold = {
     label: '分组',

@@ -15,7 +15,7 @@ export class HiddenControlPlugin extends BasePlugin {
   pluginIcon = 'hidden-plugin';
   description = '隐藏表单项';
   searchKeywords = '隐藏字段';
-  docLink = '/amis/zh-CN/components/form/hidden';
+  docLink = '/zh-CN/components/form/hidden';
   tags = ['表单项'];
   scaffold = {
     type: 'hidden',

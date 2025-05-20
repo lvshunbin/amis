@@ -18,7 +18,7 @@ export class LogPlugin extends BasePlugin {
   pluginIcon = 'log-plugin';
   description = '用来实时显示日志';
   searchKeywords = '实时日志';
-  docLink = '/amis/zh-CN/components/log';
+  docLink = '/zh-CN/components/log';
   tags = ['展示'];
   previewSchema = {
     type: 'log',

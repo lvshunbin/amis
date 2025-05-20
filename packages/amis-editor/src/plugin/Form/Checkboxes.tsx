@@ -41,7 +41,7 @@ export class CheckboxesControlPlugin extends BasePlugin {
   pluginIcon = 'checkboxes-plugin';
   description =
     '通过<code>options</code>配置多个勾选框，也可以通过<code>source</code>拉取选项';
-  docLink = '/amis/zh-CN/components/form/checkboxes';
+  docLink = '/zh-CN/components/form/checkboxes';
   tags = ['表单项'];
   scaffold = {
     type: 'checkboxes',

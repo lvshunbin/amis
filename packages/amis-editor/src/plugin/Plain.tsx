@@ -20,7 +20,7 @@ export class PlainPlugin extends BasePlugin {
   icon = 'fa fa-file-text-o';
   pluginIcon = 'plain-plugin';
   description = '用来展示纯文字，html 标签会被转义。';
-  docLink = '/amis/zh-CN/components/plain';
+  docLink = '/zh-CN/components/plain';
   tags = ['展示'];
   previewSchema = {
     type: 'plain',

@@ -18,7 +18,7 @@ export class WrapperPlugin extends LayoutBasePlugin {
   name = '包裹';
   isBaseComponent = true;
   description = '类似于容器，唯一的区别在于会默认会有一层内边距。';
-  docLink = '/amis/zh-CN/components/wrapper';
+  docLink = '/zh-CN/components/wrapper';
   tags = ['容器'];
   icon = 'fa fa-square-o';
   scaffold = {

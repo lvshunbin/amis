@@ -27,7 +27,7 @@ export class CodeEditorControlPlugin extends BasePlugin {
   description = `代码编辑器，采用 monaco-editor 支持：${availableLanguages
     .slice(0, 10)
     .join('，')}等等`;
-  docLink = '/amis/zh-CN/components/form/editor';
+  docLink = '/zh-CN/components/form/editor';
   tags = ['表单项'];
   scaffold = {
     type: 'editor',

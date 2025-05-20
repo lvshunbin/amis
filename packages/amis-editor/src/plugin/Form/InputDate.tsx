@@ -159,7 +159,7 @@ export class DateControlPlugin extends BasePlugin {
   searchKeywords =
     '日期框、input-datetime、日期时间框、input-time、时间框、input-month、月份框、input-quarter、季度框、input-year、年框、年份框、年份选择';
   description = '年月日选择，支持相对值设定，如<code>+2days</code>两天后';
-  docLink = '/amis/zh-CN/components/form/input-date';
+  docLink = '/zh-CN/components/form/input-date';
   tags = ['表单项'];
   scaffold = {
     type: 'input-date',

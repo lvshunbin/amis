@@ -15,7 +15,7 @@ export class TimelinePlugin extends BasePlugin {
   isBaseComponent = true;
   icon = 'fa fa-bars';
   description = '用来展示时间轴';
-  docLink = '/amis/zh-CN/components/timeline';
+  docLink = '/zh-CN/components/timeline';
   tags = ['展示'];
   scaffold = {
     type: 'timeline',

@@ -25,7 +25,7 @@ export class ButtonGroupPlugin extends BasePlugin {
   tags = ['功能'];
   icon = 'fa fa-object-group';
   pluginIcon = 'btn-group-plugin';
-  docLink = '/amis/zh-CN/components/button-group';
+  docLink = '/zh-CN/components/button-group';
   scaffold = {
     type: 'button-group',
     buttons: [

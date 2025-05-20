@@ -15,7 +15,7 @@ export class QuarterRangePlugin extends DateRangeControlPlugin {
   isBaseComponent = true;
   description =
     '月份范围选择，可通过<code>minDate</code>、<code>maxDate</code>设定最小、最大日期';
-  docLink = '/amis/zh-CN/components/form/input-quarter-range';
+  docLink = '/zh-CN/components/form/input-quarter-range';
   tags = ['表单项'];
   scaffold = {
     type: 'input-quarter-range',

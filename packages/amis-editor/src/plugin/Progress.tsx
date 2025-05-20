@@ -21,7 +21,7 @@ export class ProgressPlugin extends BasePlugin {
   searchKeywords = '进度条、progress';
   isBaseComponent = true;
   description = '用来展示进度。可配置各个进度段用不同的颜色展示。';
-  docLink = '/amis/zh-CN/components/progress';
+  docLink = '/zh-CN/components/progress';
   tags = ['展示'];
   icon = 'fa fa-angle-double-right';
   pluginIcon = 'progress-plugin';

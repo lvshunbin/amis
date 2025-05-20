@@ -12,7 +12,7 @@ export class URLControlPlugin extends TextControlPlugin {
   pluginIcon = 'input-url-plugin';
 
   description = '验证输入是否为合法的 URL';
-  docLink = '/amis/zh-CN/components/form/input-url';
+  docLink = '/zh-CN/components/form/input-url';
 
   scaffold = {
     type: 'input-url',

@@ -27,7 +27,7 @@ export class NavPlugin extends BasePlugin {
   name = '导航';
   isBaseComponent = true;
   description = '用来渲染导航菜单，支持横排和竖排。';
-  docLink = '/amis/zh-CN/components/nav';
+  docLink = '/zh-CN/components/nav';
   tags = ['功能'];
   icon = 'fa fa-map-signs';
   pluginIcon = 'nav-plugin';

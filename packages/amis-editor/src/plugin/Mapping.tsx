@@ -24,7 +24,7 @@ export class MappingPlugin extends BasePlugin {
   isBaseComponent = true;
   description =
     '对现有值做映射展示，比如原始值是：1、2、3...，需要展示成：下线、上线、过期等等。';
-  docLink = '/amis/zh-CN/components/mapping';
+  docLink = '/zh-CN/components/mapping';
   tags = ['展示'];
   icon = 'fa fa-exchange';
   pluginIcon = 'mapping-plugin';

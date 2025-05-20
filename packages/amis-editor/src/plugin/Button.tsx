@@ -30,7 +30,7 @@ export class ButtonPlugin extends BasePlugin {
   isBaseComponent = true;
   description =
     '用来展示一个按钮，你可以配置不同的展示样式，配置不同的点击行为。';
-  docLink = '/amis/zh-CN/components/button';
+  docLink = '/zh-CN/components/button';
   tags = ['功能'];
   icon = 'fa fa-square';
   pluginIcon = 'button-plugin';

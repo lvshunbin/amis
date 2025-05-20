@@ -20,7 +20,7 @@ export class StepsPlugin extends BasePlugin {
   icon = 'fa fa-forward';
   pluginIcon = 'steps-plugin';
   description = 'Steps 步骤条';
-  docLink = '/amis/zh-CN/components/steps';
+  docLink = '/zh-CN/components/steps';
   tags = ['展示'];
   scaffold = {
     type: 'steps',

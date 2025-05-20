@@ -35,7 +35,7 @@ export class ListControlPlugin extends BasePlugin {
   pluginIcon = 'list-select-plugin';
   description =
     '单选或者多选，支持 source 拉取选项，选项可配置图片，也可以自定义 HTML 配置';
-  docLink = '/amis/zh-CN/components/form/list-select';
+  docLink = '/zh-CN/components/form/list-select';
   tags = ['表单项'];
   scaffold = {
     type: 'list-select',

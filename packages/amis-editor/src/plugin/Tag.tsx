@@ -30,7 +30,7 @@ export class TagPlugin extends BasePlugin {
   icon = 'fa fa-tag';
   pluginIcon = 'tag-plugin';
   description = '用于标记和选择的标签';
-  docLink = '/amis/zh-CN/components/tag';
+  docLink = '/zh-CN/components/tag';
   tags = ['展示'];
   previewSchema = {
     type: 'tag',

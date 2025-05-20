@@ -58,7 +58,7 @@ export class SelectControlPlugin extends BasePlugin {
 
   searchKeywords = '选择器';
 
-  docLink = '/amis/zh-CN/components/form/select';
+  docLink = '/zh-CN/components/form/select';
 
   tags = ['表单项'];
 

@@ -28,7 +28,7 @@ export class SubFormControlPlugin extends BasePlugin {
   icon = 'fa fa-window-restore';
   pluginIcon = 'sub-form-plugin';
   description = 'SubForm, 配置一个子 form 作为当前的表单项';
-  docLink = '/amis/zh-CN/components/form/input-sub-form';
+  docLink = '/zh-CN/components/form/input-sub-form';
   tags = ['表单项'];
   scaffold = {
     type: 'input-sub-form',

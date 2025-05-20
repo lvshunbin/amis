@@ -33,7 +33,7 @@ export class HBoxPlugin extends BasePlugin {
   icon = 'fa fa-columns';
   description =
     '用来实现左右排版布局，默认平均分配，可以通过 columnClassName 配置某列的宽度。';
-  docLink = '/amis/zh-CN/components/hbox';
+  docLink = '/zh-CN/components/hbox';
   tags = ['容器'];
   scaffold = {
     type: 'hbox',

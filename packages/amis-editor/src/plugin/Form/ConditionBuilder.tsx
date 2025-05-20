@@ -30,7 +30,7 @@ export class ConditionBilderPlugin extends BasePlugin {
   pluginIcon = 'condition-builder-plugin';
   description =
     '用于设置复杂组合条件，支持添加条件，添加分组，设置组合方式，拖拽排序等功能。';
-  docLink = '/amis/zh-CN/components/form/condition-builder';
+  docLink = '/zh-CN/components/form/condition-builder';
   tags = ['表单项'];
 
   scaffold = {

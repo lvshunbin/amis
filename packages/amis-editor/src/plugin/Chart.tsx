@@ -107,7 +107,7 @@ export class ChartPlugin extends BasePlugin {
   isBaseComponent = true;
   description =
     '用来渲染图表，基于 echarts 图表库，理论上 echarts 所有图表类型都支持。';
-  docLink = '/amis/zh-CN/components/chart';
+  docLink = '/zh-CN/components/chart';
   tags = ['展示'];
   icon = 'fa fa-pie-chart';
   pluginIcon = 'chart-plugin';

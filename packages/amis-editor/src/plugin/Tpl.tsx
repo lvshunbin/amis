@@ -119,7 +119,7 @@ export class TplPlugin extends BasePlugin {
   icon = 'fa fa-file-o';
   pluginIcon = 'plain-plugin'; // 使用文字 icon
   description = '用来展示文字或者段落，支持模板语法可用来关联动态数据。';
-  docLink = '/amis/zh-CN/components/tpl';
+  docLink = '/zh-CN/components/tpl';
   tags = ['展示'];
   previewSchema = {
     type: 'tpl',

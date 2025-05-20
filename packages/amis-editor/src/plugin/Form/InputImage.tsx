@@ -61,7 +61,7 @@ export class ImageControlPlugin extends BasePlugin {
   isBaseComponent = true;
   description =
     '可以对图片实现裁剪，限制图片的宽高以及大小，支持自动上传及上传多张图片';
-  docLink = '/amis/zh-CN/components/form/input-image';
+  docLink = '/zh-CN/components/form/input-image';
   tags = ['表单项'];
   icon = 'fa fa-crop';
   pluginIcon = 'input-image-plugin';

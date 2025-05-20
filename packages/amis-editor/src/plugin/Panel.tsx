@@ -25,7 +25,7 @@ export class PanelPlugin extends BasePlugin {
   icon = 'fa fa-window-maximize';
   pluginIcon = 'panel-plugin';
   description = '展示一个面板，可以配置标题，内容区。';
-  docLink = '/amis/zh-CN/components/panel';
+  docLink = '/zh-CN/components/panel';
   tags = ['布局容器'];
   scaffold = {
     type: 'panel',

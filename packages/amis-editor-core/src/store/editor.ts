@@ -170,7 +170,7 @@ export const MainStore = types
     isMobile: false,
     isSubEditor: false,
     // 用于自定义爱速搭中的 amis 文档路径
-    amisDocHost: types.optional(types.string, 'https://baidu.gitee.io'),
+    amisDocHost: types.optional(types.string, ''),
     root: types.optional(EditorNode, {
       id: 'root',
       label: 'Root'

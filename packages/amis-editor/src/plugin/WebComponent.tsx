@@ -30,7 +30,7 @@ export class WebComponentPlugin extends BasePlugin {
   name = 'Web Component';
   isBaseComponent = true;
   description = '用于渲染 Web Component 组件';
-  docLink = '/amis/zh-CN/components/web-component';
+  docLink = '/zh-CN/components/web-component';
   tags = ['功能'];
   icon = 'fa fa-square-o';
   pluginIcon = 'web-component-plugin';

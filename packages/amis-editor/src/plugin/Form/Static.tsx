@@ -53,7 +53,7 @@ export class StaticControlPlugin extends BasePlugin {
   icon = 'fa fa-info';
   pluginIcon = 'static-plugin';
   description = '纯用来展示数据，可用来展示 json、date、image、progress 等数据';
-  docLink = '/amis/zh-CN/components/form/static';
+  docLink = '/zh-CN/components/form/static';
   tags = ['表单项'];
   scaffold = {
     type: 'static',

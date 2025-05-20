@@ -55,7 +55,7 @@ export class ServicePlugin extends BasePlugin {
 
   searchKeywords = '功能型容器';
 
-  docLink = '/amis/zh-CN/components/service';
+  docLink = '/zh-CN/components/service';
 
   tags = ['数据容器'];
 

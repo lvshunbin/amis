@@ -15,7 +15,7 @@ export class MonthRangeControlPlugin extends DateRangeControlPlugin {
   isBaseComponent = true;
   description =
     '月份范围选择，可通过<code>minDate</code>、<code>maxDate</code>设定最小、最大日期';
-  docLink = '/amis/zh-CN/components/form/input-month-range';
+  docLink = '/zh-CN/components/form/input-month-range';
   tags = ['表单项'];
   scaffold = {
     type: 'input-month-range',

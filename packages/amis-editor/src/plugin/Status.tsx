@@ -20,7 +20,7 @@ export class StatusPlugin extends BasePlugin {
   isBaseComponent = true;
   description =
     '用图标更具关联字段来展示状态，比如 1 展示 √、0 展示 x。这块可以自定义配置';
-  docLink = '/amis/zh-CN/components/status';
+  docLink = '/zh-CN/components/status';
   tags = ['展示'];
   icon = 'fa fa-check-square-o';
   pluginIcon = 'status-plugin';

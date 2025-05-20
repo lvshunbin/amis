@@ -99,7 +99,7 @@ export class DatetimePlugin extends DatePlugin {
   isBaseComponent = true;
   disabledRendererPlugin = false; // 避免被 DatePlugin 覆盖
   pluginIcon = 'datetime-plugin';
-  docLink = '/amis/zh-CN/components/date';
+  docLink = '/zh-CN/components/date';
   previewSchema = {
     ...this.scaffold,
     format: 'YYYY-MM-DD HH:mm:ss',

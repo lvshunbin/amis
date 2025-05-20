@@ -15,7 +15,7 @@ export class VideoPlugin extends BasePlugin {
   name = '视频';
   isBaseComponent = true;
   description = '视频控件，可以用来播放各种视频文件，包括 flv 和 hls 格式。';
-  docLink = '/amis/zh-CN/components/video';
+  docLink = '/zh-CN/components/video';
   tags = ['功能'];
   icon = 'fa fa-video-camera';
   pluginIcon = 'video-plugin';

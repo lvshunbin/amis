@@ -17,7 +17,7 @@ export class CodeViewPlugin extends BasePlugin {
   icon = 'fa fa-code';
   pluginIcon = 'code-plugin';
   description = '代码高亮';
-  docLink = '/amis/zh-CN/components/code';
+  docLink = '/zh-CN/components/code';
   tags = ['展示'];
   scaffold = {
     type: 'code',

@@ -27,7 +27,7 @@ export class DiffEditorControlPlugin extends BasePlugin {
     .slice(0, 10)
     .join('，')}等等`;
   searchKeywords = '对比编辑器';
-  docLink = '/amis/zh-CN/components/form/diff-editor';
+  docLink = '/zh-CN/components/form/diff-editor';
   tags = ['表单项'];
   scaffold = {
     type: 'diff-editor',

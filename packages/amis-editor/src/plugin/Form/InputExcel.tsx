@@ -26,7 +26,7 @@ export class ExcelControlPlugin extends BasePlugin {
   icon = 'fa fa-eyedropper';
   pluginIcon = 'input-excel-plugin';
   description = '自动解析 Excel';
-  docLink = '/amis/zh-CN/components/form/input-excel';
+  docLink = '/zh-CN/components/form/input-excel';
   tags = ['表单项'];
   scaffold = {
     type: 'input-excel',

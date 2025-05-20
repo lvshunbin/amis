@@ -32,7 +32,7 @@ export class RadiosControlPlugin extends BasePlugin {
   icon = 'fa fa-dot-circle-o';
   pluginIcon = 'radios-plugin';
   description = '通过 options 配置选项，可通过 source 拉取选项';
-  docLink = '/amis/zh-CN/components/form/radios';
+  docLink = '/zh-CN/components/form/radios';
   tags = ['表单项'];
   scaffold = {
     type: 'radios',

@@ -28,7 +28,7 @@ export class TextareaControlPlugin extends BasePlugin {
   pluginIcon = 'textarea-plugin';
   description = '支持换行输入';
   searchKeywords = '多行文本输入框';
-  docLink = '/amis/zh-CN/components/form/textarea';
+  docLink = '/zh-CN/components/form/textarea';
   tags = ['表单项'];
   scaffold = {
     type: 'textarea',

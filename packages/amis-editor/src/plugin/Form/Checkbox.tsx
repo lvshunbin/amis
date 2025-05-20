@@ -39,7 +39,7 @@ export class CheckboxControlPlugin extends BasePlugin {
   icon = 'fa fa-check-square-o';
   pluginIcon = 'checkbox-plugin';
   description = '勾选框';
-  docLink = '/amis/zh-CN/components/form/checkbox';
+  docLink = '/zh-CN/components/form/checkbox';
   tags = ['表单项'];
   scaffold = {
     type: 'checkbox',

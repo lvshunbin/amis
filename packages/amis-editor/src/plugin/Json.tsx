@@ -12,7 +12,7 @@ export class JsonPlugin extends BasePlugin {
   name = 'JSON展示';
   isBaseComponent = true;
   description = '用来展示 JSON 数据。';
-  docLink = '/amis/zh-CN/components/json';
+  docLink = '/zh-CN/components/json';
   tags = ['展示'];
   icon = 'fa fa-code';
   pluginIcon = 'json-view-plugin';

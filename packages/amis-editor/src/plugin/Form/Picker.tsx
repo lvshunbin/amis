@@ -42,7 +42,7 @@ export class PickerControlPlugin extends BasePlugin {
   description =
     '通过 pickerSchema 配置可供选取的数据源进行选择需要的数据，支持多选';
   searchKeywords = '列表选择器';
-  docLink = '/amis/zh-CN/components/form/picker';
+  docLink = '/zh-CN/components/form/picker';
   tags = ['表单项'];
   scaffold = {
     type: 'picker',

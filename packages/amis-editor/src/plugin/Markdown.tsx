@@ -13,7 +13,7 @@ export class MarkdownPlugin extends BasePlugin {
   name = 'Markdown';
   isBaseComponent = true;
   description = '展示 markdown 内容';
-  docLink = '/amis/zh-CN/components/markdown';
+  docLink = '/zh-CN/components/markdown';
   tags = ['展示'];
   icon = 'fa fa-file-text';
   pluginIcon = 'markdown-plugin';

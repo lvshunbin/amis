@@ -21,7 +21,7 @@ export class IconPlugin extends BasePlugin {
   panelTitle = '图标';
 
   description = '用来展示一个图标，你可以配置不同的图标样式。';
-  docLink = '/amis/zh-CN/components/icon';
+  docLink = '/zh-CN/components/icon';
   tags = ['展示'];
 
   pluginIcon = 'button-plugin';

@@ -31,7 +31,7 @@ export class DropDownButtonPlugin extends BasePlugin {
   icon = 'fa fa-chevron-down';
   pluginIcon = 'dropdown-btn-plugin';
 
-  docLink = '/amis/zh-CN/components/dropdown-button';
+  docLink = '/zh-CN/components/dropdown-button';
   scaffold = {
     type: 'dropdown-button',
     label: '下拉按钮',

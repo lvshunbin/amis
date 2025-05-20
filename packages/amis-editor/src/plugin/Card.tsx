@@ -29,7 +29,7 @@ export class CardPlugin extends BasePlugin {
   name = '卡片';
   isBaseComponent = true;
   description = '展示单个卡片。';
-  docLink = '/amis/zh-CN/components/card';
+  docLink = '/zh-CN/components/card';
   tags = ['展示'];
   icon = '';
   pluginIcon = 'card-plugin';

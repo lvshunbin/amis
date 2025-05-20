@@ -27,7 +27,7 @@ export class CollapsePlugin extends BasePlugin {
   name = '折叠器';
   isBaseComponent = true;
   description = '折叠器，可以将内容区展开或隐藏，保持页面的整洁';
-  docLink = '/amis/zh-CN/components/collapse';
+  docLink = '/zh-CN/components/collapse';
   tags = ['展示'];
   icon = 'fa fa-window-minimize';
   pluginIcon = 'collapse-plugin';

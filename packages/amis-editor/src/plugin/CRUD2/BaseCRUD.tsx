@@ -88,7 +88,7 @@ export class BaseCRUDPlugin extends BasePlugin {
 
   $schema = '/schemas/CRUD2Schema.json';
 
-  docLink = '/amis/zh-CN/components/table2';
+  docLink = '/zh-CN/components/table2';
 
   tags = ['数据容器'];
 

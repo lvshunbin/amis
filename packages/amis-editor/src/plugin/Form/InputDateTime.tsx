@@ -14,7 +14,7 @@ export class DateTimeControlPlugin extends DateControlPlugin {
   pluginIcon = 'input-datetime-plugin';
   name = '日期时间';
   description = '年月日时分选择';
-  docLink = '/amis/zh-CN/components/form/input-datetime';
+  docLink = '/zh-CN/components/form/input-datetime';
   tags = ['表单项'];
   scaffold = {
     type: 'input-datetime',

@@ -42,7 +42,7 @@ export class TreeSelectControlPlugin extends BasePlugin {
   description = '树型结构选择，支持 [内嵌模式] 与 [浮层模式] 的外观切换';
   searchKeywords =
     'tree、树下拉、树下拉框、tree-select、树形选择框、树形选择器';
-  docLink = '/amis/zh-CN/components/form/treeselect';
+  docLink = '/zh-CN/components/form/treeselect';
   tags = ['表单项'];
   scaffold = {
     type: 'tree-select',

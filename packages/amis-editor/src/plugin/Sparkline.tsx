@@ -16,7 +16,7 @@ export class SparklinePlugin extends BasePlugin {
   name = '走势图';
   isBaseComponent = true;
   description = '用于内嵌展示简单图表';
-  docLink = '/amis/zh-CN/components/sparkline';
+  docLink = '/zh-CN/components/sparkline';
   tags = ['展示'];
   icon = 'fa fa-area-chart';
   pluginIcon = 'sparkline-plugin';

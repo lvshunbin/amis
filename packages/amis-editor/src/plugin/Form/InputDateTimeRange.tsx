@@ -15,7 +15,7 @@ export class DateTimeRangeControlPlugin extends DateRangeControlPlugin {
   isBaseComponent = true;
   description =
     '日期时间范围选择，可通过<code>minDate</code>、<code>maxDate</code>设定最小、最大日期';
-  docLink = '/amis/zh-CN/components/form/input-datetime-range';
+  docLink = '/zh-CN/components/form/input-datetime-range';
   tags = ['表单项'];
   scaffold = {
     type: 'input-datetime-range',
